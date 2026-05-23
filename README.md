@@ -38,8 +38,8 @@
 ---
 
 ## 🚀 Featured Projects
-✨ Aurora Workspace  
-🌸 Jobly  
+✨ Aurora Workspace - Mern Stack Digital Workspace
+🌸 Jobly - Mern Stack Job Portal 
 🧠 Modern Portfolio  
 🌌 Galaxy Classification (ML)  
 💰 Python Expense Tracker  
