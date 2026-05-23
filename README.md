@@ -38,12 +38,12 @@
 ---
 
 ## 🚀 Featured Projects
-✨ Student Performance Tracker  
-🌸 Iris Species Prediction (ML)  
-🧠 Digit Recognizer  
+✨ Aurora Workspace  
+🌸 Jobly  
+🧠 Modern Portfolio  
 🌌 Galaxy Classification (ML)  
 💰 Python Expense Tracker  
-🌐 GitHub Pages Portfolio  
+🌐 GitHub Pages Portfolio
 
 ---
 
