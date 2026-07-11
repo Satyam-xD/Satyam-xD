@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Satyam%20Katiyar&fontSize=42&fontAlignY=35&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;MERN+Stack+Developer;Building+with+Agentic+AI+%7C+LangChain+%2F+RAG;Go+%7C+Backend+Systems;Open+to+SDE+Opportunities"/>
-</p>
+<h3 align="center">Software Development Engineer — MERN Stack & Agentic AI</h3>
 
 <p align="center">
   🎓 B.Tech CSE, SRMS CET Bareilly (2026) &nbsp;|&nbsp; 📍 Open to onsite/hybrid roles across India
@@ -64,27 +62,19 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🌸 **[Jobly](https://github.com/Satyam-xD)** | MERN stack job portal |
-| ✨ **[Aurora Workspace](https://github.com/Satyam-xD)** | MERN stack digital collaboration platform |
-| 🧠 **Modern Portfolio** | Personal portfolio site |
-| 🌌 **Galaxy Classification** | ML-based image classification |
-| 💰 **Python Expense Tracker** | CLI/GUI expense tracking tool |
-| 🌐 **GitHub Pages Portfolio** | Static portfolio hosted on GitHub Pages |
+### 🌸 Jobly — Job Portal
+Full-stack job portal connecting job seekers with employers. JWT auth, admin dashboard for recruiters, resume uploads via Cloudinary, and real-time application tracking.
 
----
+`React 18` `Redux Toolkit` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
-## 📊 GitHub Stats
+🔗 [Repository](https://github.com/Satyam-xD/Jobly)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-xD&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-xD&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### ✨ Aurora Workspace — Digital Collaboration Platform
+Unified remote-work platform combining video conferencing, team chat, Kanban boards, document sharing, and a built-in password manager — replacing 4-5 separate tools with one interface.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-xD&theme=tokyonight&hide_border=true"/>
-</p>
+`React` `Tailwind CSS` `Chart.js` `React Context API`
+
+🔗 [Repository](https://github.com/Satyam-xD/Digital_Workspace)
 
 ---
 
